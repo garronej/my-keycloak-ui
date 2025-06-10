@@ -1745,7 +1745,7 @@
   "smtpServer": {},
   "loginTheme": "vanilla",
   "accountTheme": "vanilla",
-  "adminTheme": "",
+  "adminTheme": "vanilla",
   "emailTheme": "",
   "eventsEnabled": false,
   "eventsListeners": [
